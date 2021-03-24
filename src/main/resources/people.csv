@@ -1,21 +1,21 @@
-person_name,tv_show,character,favourite,rank
-Michael C Hall,Dexter,Dexter Morgan,true,8
-Jennifer Carpenter,Dexter,Debra, Morgan,true,6
-Charlie Hunnam,Sons of Anarchy,Jax Teller,true,10
-Kim Coates,Sons of Anarchy,,Tig Trager,true,11
-Tommy Flanagan,Sons of Anarchy,Chibs Telford,true,13
-Jon Bernthal,The Punisher,Frank Castle,true,9
-Deborah Ann Woll,The Punisher,Karen Page,true,9
-Cillian Murphy,Peaky Blinders,Thomas Shelby,true,7
+person_name,tv_show,character,rank
+Michael C Hall,Dexter,Dexter Morgan,8
+Jennifer Carpenter,Dexter,Debra, Morgan,6
+Charlie Hunnam,Sons of Anarchy,Jax Teller,10
+Kim Coates,Sons of Anarchy,,Tig Trager,11
+Tommy Flanagan,Sons of Anarchy,Chibs Telford,13
+Jon Bernthal,The Punisher,Frank Castle,9
+Deborah Ann Woll,The Punisher,Karen Page,9
+Cillian Murphy,Peaky Blinders,Thomas Shelby,7
 Paul Anderson,Peaky Blinders,Arthur Shelby,true,9
-Bob Odenkirk,Better Call Saul,Slipping Jimmy,false,6
-Jonathan Banks,Better Call Saul,Mike Ehrmantraut,false,12
-Micheal Mando,Better Call Saul,Nacho Varda,,false,7
-Bob Odenkirk,Breaking Bad,Saul Goodman,true,6
-Bryan, Cranston,Breaking Bad,Walter White,true,15
-Aaron Paul,Breaking Bad,Jesse Pinkman,true,15
-Hugh Laurie,House MD,Gregory House,false,12
-Wade Williams,Prison Break,Brad Bellick,false,6
-Wentworth, Miller,Prison Break,Michael Scofield,false,9
+Bob Odenkirk,Better Call Saul,Slipping Jimmy,6
+Jonathan Banks,Better Call Saul,Mike Ehrmantraut,12
+Micheal Mando,Better Call Saul,Nacho Varda,,7
+Bob Odenkirk,Breaking Bad,Saul Goodman,,6
+Bryan, Cranston,Breaking Bad,Walter White,15
+Aaron Paul,Breaking Bad,Jesse Pinkman,15
+Hugh Laurie,House MD,Gregory House,12
+Wade Williams,Prison Break,Brad Bellick,6
+Wentworth, Miller,Prison Break,Michael Scofield,,9
 
 

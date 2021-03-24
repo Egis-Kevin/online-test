@@ -1,5 +1,5 @@
 class FileHandler {
-    public File write(InputStream stream) {
+    public File write(InputStream stream, File out) {
         File file = new File("src/main/resources/target.tmp")
         OutputStream outputStream = new FileOutputStream(file)
 
